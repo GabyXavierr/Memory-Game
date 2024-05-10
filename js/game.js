@@ -78,6 +78,7 @@ const revealCard = ({ target }) => {
 
   }
 }
+// Mudar face da carta 
 
 const createCard = (character) => {
 

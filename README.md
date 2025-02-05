@@ -1,7 +1,3 @@
-Aqui está o seu README atualizado com o link para o projeto hospedado no Vercel:
-
----
-
 # Memory Game: League of Legends 🎮
 
 Este projeto é um jogo de memória desenvolvido com HTML, CSS e JavaScript. O objetivo é encontrar pares de cartas correspondentes em um tabuleiro aleatório, enquanto o tempo é cronometrado. 
